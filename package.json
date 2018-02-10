@@ -1,0 +1,9 @@
+{
+  "name": "js-boilerplate-generator",
+  "version": "0.0.1",
+  "description": "Javascript boilerplate generator",
+  "main": "index.js",
+  "repository": "https://github.com/JHotterbeekx/js-boilerplate-generator.git",
+  "author": "John Hotterbeekx <john.online@hotterbeekx.nl>",
+  "license": "MIT"
+}
