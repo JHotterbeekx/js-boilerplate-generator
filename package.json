@@ -7,6 +7,12 @@
   "author": "John Hotterbeekx <john.online@hotterbeekx.nl>",
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.14.1"
-  }
+    "clear": "^0.0.1",
+    "commander": "^2.14.1",
+    "global": "^4.3.2",
+    "inquirer": "^5.1.0",
+    "js-boilerplate-generator": "file:./js-boilerplate-generator-0.0.1.tgz",
+    "node-cmd": "^3.0.0"
+  },
+  "bin": "bin/boil.js"
 }
